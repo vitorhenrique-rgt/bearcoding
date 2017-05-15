@@ -55,7 +55,7 @@ include 'conexao.php';
         <div class="col-sm-offset-2 col-sm-8">
             <div class="conteiner">
                 <div class="col-sm-offset-2 col-sm-10">
-                    <h1>Result das Consultas </h1>
+                    <h1>Consultas </h1>
                 </div> 
                 <br>
 
